@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/harry-potter-react/static/css/main.e776c057.css",
+    "main.js": "/harry-potter-react/static/js/main.bc86fec0.js",
+    "static/js/787.febbefd4.chunk.js": "/harry-potter-react/static/js/787.febbefd4.chunk.js",
+    "static/media/BG.png": "/harry-potter-react/static/media/BG.0805d1c579b3eb137695.png",
+    "index.html": "/harry-potter-react/index.html",
+    "main.e776c057.css.map": "/harry-potter-react/static/css/main.e776c057.css.map",
+    "main.bc86fec0.js.map": "/harry-potter-react/static/js/main.bc86fec0.js.map",
+    "787.febbefd4.chunk.js.map": "/harry-potter-react/static/js/787.febbefd4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e776c057.css",
+    "static/js/main.bc86fec0.js"
+  ]
+}
